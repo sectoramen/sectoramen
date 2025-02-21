@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Andrea
-- 👀 I’m interested in cybersecurity, goverance, risk, compliance and tinkering with technology
-- 🌱 I’m currently learning a great deal!
+- 👋 Hi, I’m Andrea.
+- 🏢 I am a Senior Security Assurance Consultant with the AWS GenAI Innocation Center security team.
+- 👀 I’m interested in cybersecurity automation, goverance, risk, compliance and tinkering with technology
+- 🌱 I’m a Ph.D. candidate in Cybersecurity
 - 💞️ I’m looking to collaborate on new ideas with the potential of having a large impact on cybersecurity
-- 📫 How to reach me ...
+- 📫 You can reach me here or on linked in at https://www.linkedin.com/in/adifabio
 
 <!---
 sectoramen/sectoramen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
